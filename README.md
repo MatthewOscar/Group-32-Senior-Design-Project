@@ -12,9 +12,8 @@
  - [Matthew Wyatt](mailto:mwyatt2023@fau.edu)
 ---
 ## Folder Structure
-
+### [README](README.md)
 ### Deliverables
-- [README](README.md)
 - [Documents and Presentations](Deliverables/Documents%20and%20Presentations/)
   - [Design Documents (EGN 4950C)](Deliverables/Documents%20and%20Presentations/Design%20Documents%20(EGN%204950C)/)
   - [Presentations](Deliverables/Documents%20and%20Presentations/Presentations/)
@@ -32,6 +31,7 @@
     - [Blocks](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Simulation%20Environment%20(Brenden%20Martins)/Blocks)
   - [MDCS Target Detection (Tutku Gizem Guder)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Target%20Detection%20(Tutku%20Gizem%20Guder)/)
   - [MDCS User Interface (Matthew Paternoster)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20User%20Interface%20(Matthew%20Paternoster)/)
+-# Note: The folder "Deliverables/Senior Design Project (MDCS)/MDCS Simulation Environment (Brenden Martins)/AirSim" would be located in the Documents folder at C:\Users\username\Documents once AirSim is built on the device. The settings.json needs to be configured to the way it is set up here to allow for multiple drones.
 ___
 ## Required Programs
 The core of our project, the Multiple Drones Coordination System, runs on Microsoft AirSim. For more general information about AirSim, visit https://microsoft.github.io/AirSim/.
