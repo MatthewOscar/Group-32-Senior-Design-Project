@@ -13,7 +13,7 @@
 ---
 ## Folder Structure
 ### [README](README.md)
-### Deliverables
+### [Deliverables](Deliverables)
 - [Documents and Presentations](Deliverables/Documents%20and%20Presentations/)
   - [Design Documents (EGN 4950C)](Deliverables/Documents%20and%20Presentations/Design%20Documents%20(EGN%204950C)/)
   - [Presentations](Deliverables/Documents%20and%20Presentations/Presentations/)
