@@ -28,7 +28,7 @@
     - [Data Management](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Communications%20and%20Data%20Management%20(Matthew%20Wyatt)/Data%20Management)
   - [MDCS Drone Control (Tarek Kayali)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Drone%20Control%20(Tarek%20Kayali)/)
   - [MDCS Simulation Environment (Brenden Martins)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Simulation%20Environment%20(Brenden%20Martins)/)
-    - [AirSim](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Simulation%20Environment%20(Brenden%20Martins)/Airsim)
+    - [AirSim](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Simulation%20Environment%20(Brenden%20Martins)/AirSim)
     - [Blocks](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Simulation%20Environment%20(Brenden%20Martins)/Blocks)
   - [MDCS Target Detection (Tutku Gizem Guder)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20Target%20Detection%20(Tutku%20Gizem%20Guder)/)
   - [MDCS User Interface (Matthew Paternoster)](Deliverables/Senior%20Design%20Project%20(MDCS)/MDCS%20User%20Interface%20(Matthew%20Paternoster)/)
