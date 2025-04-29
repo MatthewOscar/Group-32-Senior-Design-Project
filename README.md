@@ -1,4 +1,4 @@
-# Group 47 Senior Design Project: Multiple Drones Coordination System (MDCS)
+# Group 32 Senior Design Project: Multiple Drones Coordination System (MDCS)
 
 ![Our poster describes the Multiple Drones Coordination System](https://www.fau.edu/engineering/senior-design/images/47.jpg)
 
