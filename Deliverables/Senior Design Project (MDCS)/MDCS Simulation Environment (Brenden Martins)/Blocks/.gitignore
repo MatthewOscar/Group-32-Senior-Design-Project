@@ -77,5 +77,7 @@ DerivedDataCache/*
 __pycache__/
 *.pyc
 
-# --- Force include AirSim AirLib ---
+# --- Force include AirSim prebuilt static libraries for portability ---
 !Plugins/AirSim/Source/AirLib/lib/x64/Release/AirLib.lib
+!Plugins/AirSim/Source/AirLib/deps/MavLinkCom/lib/x64/Release/MavLinkCom.lib
+!Plugins/AirSim/Source/AirLib/deps/rpclib/lib/x64/Release/rpc.lib
