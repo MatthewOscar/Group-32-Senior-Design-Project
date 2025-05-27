@@ -1,3 +1,10 @@
+# --- DO NOT IGNORE THE FOLLOWING (these are required for project to build/run) ---
+!Config/
+!Content/
+!Source/
+!Plugins/
+!Blocks.uproject
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +79,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Python cache
+__pycache__/
+*.pyc
